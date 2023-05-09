@@ -496,5 +496,6 @@ gameOver =false;
 playerAlive = true;
 boomTime = 0;
 explosionCount = 0;
+holding = false;
 }
 
